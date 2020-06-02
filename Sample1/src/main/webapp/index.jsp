@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>How to get value of a Kubernetes Secret using Java</h2>
 
 <% 
     String env_db_user = System.getenv("DB_USER"); 
