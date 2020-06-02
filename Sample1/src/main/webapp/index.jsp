@@ -8,6 +8,7 @@
 %>
 
 <%="DB_USER= " + env_db_user %>
+<br>
 <%="DB_PASSWD= " + env_db_passwd %>
 
 </body>
